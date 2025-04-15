@@ -2,6 +2,8 @@
 
 Scrapea una página web cada X minutos y te avisa por Telegram si hay algún producto con precio menor al umbral definido.
 
+![image](https://github.com/user-attachments/assets/77d4dc32-65e0-4505-b0d3-09628c7a6e1a)
+
 ## Info
 Además de definir la URL, hay que analizar la estructura del HTML de esa página para setear las class correspondientes.
 
